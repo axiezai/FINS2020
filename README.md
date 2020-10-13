@@ -1,13 +1,15 @@
 Frontiers in Neuropsychiatry Seminars (FINS) Oct. 13th 2020
 ---
 
-This repository includes contents for my talk at WCM's virtual FINS on Tuesday Oct. 13th, 2020. 
+This repository includes contents for my talk at WCM's virtual FINS on Tuesday Oct. 13th, 2020. If you have any questions about using the jupyter notebooks or something is not working, please open an issue. 
 
 Material are gathered from the following papers:
  - [Spectral graph theory of brain oscillations](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24991)
  - [Emergence of canonical functional networks from complex-valued Laplacian of structural connnectome](https://www.biorxiv.org/content/10.1101/2020.09.16.300384v1)
 
 The open source repository for the spectral graph model is located at: [https://github.com/Raj-Lab-UCSF/spectrome](https://github.com/Raj-Lab-UCSF/spectrome)
+
+You may either download the files as a `.zip` or do a `git clone` to your desired destination.
 
 Relevant files in this repo:
  ```
